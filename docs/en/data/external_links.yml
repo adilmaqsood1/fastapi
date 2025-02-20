@@ -1,5 +1,9 @@
 Articles:
   English:
+   - author: Adil Maqsood
+    author_link: https://www.linkedin.com/in/adilmaqsood0/
+    link: https://medium.com/@adilmaqsood501/building-an-agentic-ai-project-with-fastapi-edea2e4e2588
+    title: Building an Agentic AI Project with FastAPI
   - author: Balthazar Rouberol
     author_link: https://balthazar-rouberol.com
     link: https://blog.balthazar-rouberol.com/how-to-profile-a-fastapi-asynchronous-request
